@@ -1,9 +1,9 @@
-CitiBike Sharing 
+# CitiBike Sharing 
 
-#Project Overview:
+## Project Overview:
 Investors are interested in investing in bike-sharing program in Des Moines. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis of the NYC Citibike share program. Thus, we have decided to focus on analysis on NYC Citibike ride share program for the month of August 2019. 
 
-#Results [link to dashboard](https://public.tableau.com/app/profile/nkauj.iab.yang/viz/Module14ChallengeStory_16490542582640/NYCCitiBikeStory)
+## Results [link to dashboard](https://public.tableau.com/app/profile/nkauj.iab.yang/viz/Module14ChallengeStory_16490542582640/NYCCitiBikeStory)
 
 Number of Rides in August 2019
 
@@ -53,7 +53,7 @@ Checkout Time by Gender
 
 * While there are more male riders than female riders, there is consistency of most rides lasting at about 5 minutes across the board. 
 
-#Summary
+## Summary
 
 August 2019 demonstrates a high activity of NYC's Citibike share program. Most of the ride sharers were male riders, at 65% of riders. The peak hours of rides were in the morning and evenings. With that, it is safe to say that CitiBike share program is a great alternative to transportation for those who are communiting to and from work. Riders enjoyed using CitiBike during the weekends throughout the day, 9AM-8PM. While we looked at August 2019, it would be important to consider the ride share program during the winter months, when the road conditions may not be as conducive to bicyling. 
 
